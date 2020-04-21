@@ -10,7 +10,7 @@ Overall this project enabled me to further my knowledge of Python and it has hel
 
 * **Using Str() and Int()** - I learnt a lot using the Str() and Int() functions, needing to have variables converted to the correct data type when using them in strings or for maths.
 
-* **Debugging** - I had to debug my programme to get use to a new programming language 
+* **Debugging** - I had to debug my programme to get use to a new programming language and this enabled me to start understanding the language more.
 
 
 
